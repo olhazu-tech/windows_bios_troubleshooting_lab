@@ -26,3 +26,16 @@ I installed the **server component of the software on a Windows Server virtual m
 I tested these setups across **Windows Server 2012**, **Windows 10**, and **Ubuntu 18.04**, ensuring each environment could establish a stable connection once virtualization was enabled at the BIOS level.
 
 ![Virtualization Support](images/20251023_193056.jpg)
+
+---
+
+### 3️⃣ Exploring the “General” BIOS Section
+This group of settings covers core system information and boot configuration options in the Dell G7 BIOS.  
+From here, I could review **hardware details** (like CPU model, RAM size, and BIOS version), as well as configure **boot priorities** and **UEFI security behavior**.  
+In practice, I used these options when troubleshooting boot failures or preparing machines for OS installation from external media — in my case, over USB, though this process can also be performed over PXE in network environments.
+
+![System Information](images/20251023_193901.jpg)
+![Boot Sequence](images/20251023_193929.jpg)
+![Advanced Boot Options](images/20251023_194043.jpg)
+![UEFI Boot Path Security](images/20251023_194051.jpg)
+![UEFI Boot Path Security Close-up](images/20251023_194053.jpg)
