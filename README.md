@@ -19,6 +19,10 @@ Don, my cat, reminds me from the very beginning that he has my hand — or maybe
 
 ### 2️⃣ Enabling Virtualization Support
 This BIOS section shows where Intel Virtualization Technology can be enabled.  
-Turning it on allows the CPU to support virtual machines and hardware acceleration — something I used when setting up Windows Server test environments and troubleshooting client-server connectivity during software installations.
+Turning it on allows the CPU to support virtual machines and hardware acceleration — something I used when setting up Windows Server test environments and troubleshooting client-server connectivity during software installations.  
+
+In practice, I worked with both **VirtualBox** and **VMware Workstation**, creating isolated virtual networks to simulate real deployment conditions.  
+I installed the **server component of the software on a Windows Server virtual machine** and the **client component on a local machine**, verifying that the two could communicate properly through configured network ports.  
+I tested these setups across **Windows Server 2012**, **Windows 10**, and **Ubuntu 18.04**, ensuring each environment could establish a stable connection once virtualization was enabled at the BIOS level.
 
 ![Virtualization Support](images/20251023_193056.jpg)
