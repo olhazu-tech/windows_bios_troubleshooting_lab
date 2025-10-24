@@ -39,3 +39,21 @@ In practice, I used these options when troubleshooting boot failures or preparin
 ![Advanced Boot Options](images/20251023_194043.jpg)
 ![UEFI Boot Path Security](images/20251023_194051.jpg)
 ![UEFI Boot Path Security Close-up](images/20251023_194053.jpg)
+
+---
+
+### 4️⃣ System Logs and BIOS Recovery
+
+This section records the system’s internal history — events related to hardware, cooling, and firmware updates.  
+Accessing **System Logs** from BIOS helped me verify whether any hardware malfunctions (like fan errors or power adapter warnings) had occurred before troubleshooting deeper.  
+
+For example, the **BIOS Events** log shows firmware update results and battery or fan alerts, while the **Thermal Events** log tracks cooling fan behavior — useful when diagnosing overheating or shutdown issues.  
+The **Power Events** log would similarly capture changes in AC power adapters or unexpected shutdowns.
+
+In the **Maintenance → BIOS Recovery** section, Dell BIOS provides recovery options that let users restore firmware from the internal hard drive or a USB key — a lifesaver when troubleshooting failed BIOS updates or startup issues.
+
+![BIOS Events](images/20251023_194210.jpg)
+![Thermal Events](images/20251023_194217.jpg)
+![Thermal Events Close-up](images/20251023_194224.jpg)
+![BIOS Recovery](images/20251023_194425.jpg)
+![GitHub Repository Setup](images/20251023_195647.jpg)
