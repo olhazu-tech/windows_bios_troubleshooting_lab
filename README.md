@@ -56,4 +56,4 @@ In the **Maintenance → BIOS Recovery** section, Dell BIOS provides recovery op
 ![Thermal Events](images/20251023_194217.jpg)
 ![Thermal Events Close-up](images/20251023_194224.jpg)
 ![BIOS Recovery](images/20251023_194425.jpg)
-![GitHub Repository Setup](images/20251023_195647.jpg)
+
