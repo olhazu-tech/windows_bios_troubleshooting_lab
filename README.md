@@ -1,5 +1,5 @@
 ### 1️⃣ BIOS Main Page Overview
-![BIOS Main Page](img/20251023_192147.jpg)
+![BIOS Main Page](20251023_192147.jpg)
 ![BIOS Main Page with Don](img/20251023_192511.jpg)
 
 This is the main page of the Dell G7 BIOS interface.  
