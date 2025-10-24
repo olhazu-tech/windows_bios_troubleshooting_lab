@@ -1,3 +1,13 @@
+# 🧠 Overview
+
+This mini-lab documents a practical walk-through of BIOS settings and their real-world troubleshooting use cases.  
+Each screenshot and note is based on real interactions with the Dell G7 BIOS — from reviewing hardware information and enabling virtualization, to inspecting system logs and recovery options.  
+
+The goal is to create a clear, hands-on reference for typical BIOS-level operations used in system setup, diagnostics, and server test environments.  
+All steps are illustrated with real photos and short, readable explanations — occasionally assisted by Don 🐾, my feline co-technician, who supervised (part-time).
+
+---
+
 ## 🧩 Windows BIOS Troubleshooting Lab
 
 This lab demonstrates real BIOS settings and troubleshooting use cases based on my previous technical experience.  
